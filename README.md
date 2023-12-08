@@ -1,4 +1,4 @@
-# .github
+# About Us
 # Code Point Creatives - Power Platform Solutions
 
 Welcome to the Code Point Creatives GitHub repository! We specialize in crafting innovative solutions on the Microsoft Power Platform, and this space serves as our central hub for sharing projects and contributing to the community.
